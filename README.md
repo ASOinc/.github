@@ -47,5 +47,3 @@ We’d love to hear from you! Feel free to reach out to us via GitHub issues, or
 Thank you for visiting our GitHub organization. We hope you enjoy our work and are inspired to collaborate with us! 🚀
 
 ---
-
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
