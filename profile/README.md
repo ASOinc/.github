@@ -1,6 +1,6 @@
 # Welcome to **ASO inc.** 🎉
 
-Hello and welcome to our GitHub organization! We are a small but passionate team based in **Italy**, working together to create amazing software and web applications. Our mission is to build high-quality solutions tailored for **agencies** and **private clients**, focusing on performance, scalability, and beautiful user experiences.
+We are a small but passionate team based in **Italy**, working together to create amazing software and web applications. Our mission is to build high-quality solutions tailored for **agencies** and **private clients**, focusing on performance, scalability, and beautiful user experiences.
 
 ## Meet the Team 👥
 
