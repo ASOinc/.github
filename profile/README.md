@@ -1,4 +1,4 @@
-# Welcome to **rGabrex & Joshua Kasa Software Development** 🎉
+# Welcome to **ASO inc.** 🎉
 
 Hello and welcome to our GitHub organization! We are a small but passionate team based in **Italy**, working together to create amazing software and web applications. Our mission is to build high-quality solutions tailored for **agencies** and **private clients**, focusing on performance, scalability, and beautiful user experiences.
 
@@ -16,7 +16,7 @@ Gabriele is a **web development enthusiast** with a strong background in **HTML*
 
 Tommaso is a **software development wizard** with deep expertise in **Python**, alongside proficiency in **HTML**, **Rust**, **C++**, **C**, **Bash**, **Shell**, and many other technologies. He thrives on building powerful, efficient back-end systems and loves experimenting with new languages and frameworks to solve complex problems.
 
-- **Specialization**: Python (mainly), Rust, C++, C, Bash, Shell, and much more...
+- **Specialization**: Python, Rust, C++, C, Bash, Shell, and much more...
 - **Passionate about**: Efficient algorithms, problem-solving, system programming
 - **Current Focus**: Back-end development, automation, scripting
 
