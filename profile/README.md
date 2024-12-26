@@ -1,4 +1,4 @@
-# Welcome to **ASO inc.** 🎉
+# Welcome to **ASO co.** 🎉
 
 We are a small but passionate team based in **Italy**, working together to create amazing software and web applications. Our mission is to build high-quality solutions tailored for **agencies** and **private clients**, focusing on performance, scalability, and beautiful user experiences.
 
